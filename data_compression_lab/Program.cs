@@ -517,7 +517,6 @@ namespace data_compression_lab
                     outputArray[y] = rowOutput.ToArray();
                 }
 
-
                 return outputArray;
             }
             catch (Exception e)
